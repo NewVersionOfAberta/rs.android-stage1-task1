@@ -33,4 +33,4 @@ class Task1MiniMaxSumTest {
         val result = intArrayOf(1641, 2547)
         assertArrayEquals(result, miniMaxSum.getResult(input))
     }
-}
+}// 484 908 759 120 103
